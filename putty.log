@@ -1,25 +1,0 @@
-=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2020.02.05 23:36:02 =~=~=~=~=~=~=~=~=~=~=~=
-Using username "psi".
-psi@192.168.1.35's password: 
-Activate the web console with: systemctl enable --now cockpit.socket
-
-Last login: Mon Feb  3 21:26:45 2020 from 192.168.1.34
-]0;psi@localhost:~[psi@localhost ~]$ sudo nanp [K[Ko /etc/screenrc 
-
-Мы полагаем, что ваш системный администратор изложил вам основы
-безопасности. Как правило, всё сводится к трём следующим правилам:
-
-    №1) Уважайте частную жизнь других.
-    №2) Думайте, прежде что-то вводить.
-    №3) С большой властью приходит большая ответственность.
-
-[sudo] пароль для psi: 
-[?1049h[22;0;0t[1;24r(B[m[4l[?7h[39;49m[?1h=[?1h=[?1h=[?25l[39;49m(B[m[H[2J[22;33H(B[0;7m[ Чтение файла ](B[m[22;32H(B[0;7m[ Read 217 lines ](B[m[H(B[0;7m  GNU nano 2.9.8                     /etc/screenrc                              [1;79H(B[m[23d(B[0;7m^G(B[m Помощь    (B[0;7m^O(B[m Записать  (B[0;7m^W(B[m Поиск     (B[0;7m^K(B[m Вырезать  (B[0;7m^J(B[m Выровнять (B[0;7m^C(B[m ТекПозиц[24d(B[0;7m^X(B[m Выход     (B[0;7m^R(B[m ЧитФайл   (B[0;7m^\(B[m Замена    (B[0;7m^U(B[m Отмен. выр(B[0;7m^T(B[m Словарь   (B[0;7m^_(B[m К строке[22d[3d[39;49m[36m#escape[4d# This is an example for the global screenrc file.[5d# You may want to install this file as /usr/local/etc/screenrc.[6d# Check config.h for the exact location.[7d#[8d# Flaws of termcap and standard settings are done here.[9d#[11d#startup_message off[13d#defflow on # will force screen to process ^S/^Q[15d[39m(B[mEscape Vv[16ddeflogin on[17d[36m#autodetach off[19d[39m(B[mvbell on[20dvbell_msg "   Wuff  ----  Wuff!!  "[3d[?12l[?25h[?25l[4d[?12l[?25h[?25l[5d[?12l[?25h[?25l[6d[?12l[?25h[?25l[7d[?12l[?25h[?25l[8d[?12l[?25h[?25l[9d[?12l[?25h[?25l[10d[?12l[?25h[?25l[11d[?12l[?25h[?25l[12d[?12l[?25h[?25l[13d[?12l[?25h[?25l[14d[?12l[?25h[?25l[15d[?12l[?25h[?25l[16d[?12l[?25h[?25ld[?12l[?25h[?25l[A[?12l[?25h[?25l[1;72H(B[0;7mИзменён(B[m[15d[1P[?12l[?25h[?25lescape Vve[?12l[?25h[?25ls[?12l[?25h[?25lc[?12l[?25h[?25la[?12l[?25h[?25lp[?12l[?25h[?25le[?12l[?25h[?25l [?12l[?25h[?25l^Vv	[?12l[?25h[?25l[22d(B[0;7mSave modified buffer?  (Answering "No" will DISCARD changes.)                   [23;1H Y(B[m Да[K[24d(B[0;7m N(B[m Нет          (B[0;7m^C(B[m Отмена[K[22;63H[?12l[?25h[?25l[23d(B[0;7m^G(B[m Помощь[23;21H(B[0;7mM-D(B[m Формат DOS	(B[0;7mM-A(B[m Доп. в начало   (B[0;7mM-B(B[m Резерв. копия[24d(B[0;7m^C(B[m Отмена	    (B[0;7mM-M(B[m Формат Mac	(B[0;7mM-P(B[m Доп. в конец    (B[0;7m^T(B[m К файлам[22d(B[0;7mИмя файла для записи: /etc/screenrc                          (B[m[22;36H[?12l[?25h[?25l[K[1;79H[Z(B[0;7m       (B[m[22;31H(B[0;7m[ Wrote 217 lines ](B[m[J[24;80H[?12l[?25h[24;1H[?1049l[23;0;0t[?1l>]0;psi@localhost:~[psi@localhost ~]$ 
-]0;psi@localhost:~[psi@localhost ~]$ 
-]0;psi@localhost:~[psi@localhost ~]$ 
-]0;psi@localhost:~[psi@localhost ~]$ 
-]0;psi@localhost:~[psi@localhost ~]$ hostmn[K[K[K[K[K[K/[Khostname elasticsearch
-hostname: you must be root to change the host name
-]0;psi@localhost:~[psi@localhost ~]$ hostname elasticsearch[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@s[1@u[1@d[1@o[1@ 
-]0;psi@localhost:~[psi@localhost ~]$ 
-]0;psi@localhost:~[psi@localhost ~]$ выход
